@@ -1,0 +1,7 @@
+#login[hidden],#app[hidden]{display:none!important}
+body.demo-recolector .sidebar{background:linear-gradient(180deg,#244d70,#142f49)}
+body.demo-recolector .nav-item.active{box-shadow:inset 3px 0 #8dd8ff}
+body.demo-recolector .nav-item.active .nav-icon{color:#8dd8ff}
+body.demo-empresa .sidebar{background:linear-gradient(180deg,#654a78,#392d4d)}
+body.demo-empresa .nav-item.active{box-shadow:inset 3px 0 #edc5ff}
+body.demo-empresa .nav-item.active .nav-icon{color:#edc5ff}
